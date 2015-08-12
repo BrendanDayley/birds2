@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dallincrane/mini-birds-mongoose"
+    "url": "git+https://github.com/BrendanDayley/birds2.git"
   },
-  "author": "https://github.com/dallincrane",
+  "author": "https://github.com/BrendanDayley",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dallincrane/mini-birds-mongoose/issues"
+    "url": "https://github.com/BrendanDayley/birds2.git"
   },
-  "homepage": "https://github.com/dallincrane/mini-birds-mongoose",
+  "homepage": "https://github.com/BrendanDayley/birds2.git",
   "dependencies": {
     "body-parser": "^1.12.3",
     "cors": "^2.6.0",
     "express": "^4.12.3",
     "mongoose": "^4.0.2"
-  }
+  },
+  "devDependencies": {}
 }
